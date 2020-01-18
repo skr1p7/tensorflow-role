@@ -1,0 +1,4 @@
+---
+- hosts: localhost 
+  roles:
+  - /home/skr1p7/gci19/tensorflow-role
